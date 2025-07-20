@@ -20,7 +20,7 @@ Hi, I’m Amal – a final-year Computer Science Engineering student at Toc H In
 🌐 Socials
 
 📧 Email: amalvicontact@gmail.com
-📱 Linkedin: linkedin.com/in/contactamal
+📱 Linkedin: [linkedin.com/in/contactamal](https://linkedin.com/in/contactamal)
 
 ⸻
 
