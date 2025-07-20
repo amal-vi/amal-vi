@@ -11,7 +11,6 @@ Hi, I’m Amal – a final-year Computer Science Engineering student at Toc H In
 	•	🏨 Hostel Management System (React + Flask + MySQL)
 
 ⚽ Active football player, represented my college in zonal tournaments
-🎵 Singing is a hobby
 🎗️ Volunteered in organizing inter-college football tournaments
 
 🌱 I’m focused on becoming a skilled software engineer with future ambitions to transition into DevOps and Cloud Engineering.
