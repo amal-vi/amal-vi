@@ -62,7 +62,6 @@ Hi, I’m Amal – a final-year Computer Science Engineering student at Toc H In
 
 📊 Most Used Languages
 
-You can use this to auto-generate from GitHub:
 
 ![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-vi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-vi&layout=compact&theme=radical)
