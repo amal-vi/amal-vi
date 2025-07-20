@@ -60,7 +60,6 @@ Hi, I’m Amal – a final-year Computer Science Engineering student at Toc H In
 
 ⸻
 
-📊 Most Used Languages
 
 
 ![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amal-vi&show_icons=true&theme=radical)
